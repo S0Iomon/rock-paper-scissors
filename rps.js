@@ -1,4 +1,4 @@
-
+console.clear();
 let botChoose = ['rock', 'paper', 'scissors'];
 let userAnswer = getHumanInput();
 let botAnswer = botInput();
