@@ -1,4 +1,4 @@
-console.clear();
+setTimeout(() => {console.clear()}, 5000);
 let botChoose = ['rock', 'paper', 'scissors'];
 let userAnswer = getHumanInput();
 let botAnswer = botInput();
